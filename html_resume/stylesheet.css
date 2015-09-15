@@ -1,0 +1,146 @@
+* {
+    font-family:Candara, Century Gothic;
+}
+
+body {
+    background-color:brown;
+}
+
+div {
+    border-radius:0px;
+}
+
+img {
+    width:50px;
+    height:50px;
+    border-radius:100%;
+}
+
+#header {
+    width:100%;
+    height:65px;
+    background-color:#003399;
+    z-index:1;
+    position: relative;
+    margin-top: 0px;
+}
+
+#name {
+    font-size:29px;
+    text-align:left;
+    float:left;
+    padding-left:10px;
+    color:white;
+}
+
+#email {
+    font-size:20px;
+    text-align:center;
+    color:white;
+    float:left;
+    padding-left:25%;
+}
+
+#facebook {
+    position:fixed;
+    margin-left:75%;
+    margin-top:5px;
+    height:50px;
+    width:50px;
+    border-radius:100%;
+    border:2px solid teal;
+    float:right;
+}
+
+
+#linkedin {
+    position:fixed;
+    margin-left:80%;
+    margin-top:5px;
+    height:50px;
+    width:50px;
+    border-radius:100%;
+    border:2px solid teal;
+    float:right;
+}
+
+#twitter {
+    position:fixed;
+    margin-left:85%;
+    margin-top:5px;
+    height:50px;
+    width:50px;
+    border-radius:100%;
+    border:2px solid teal;
+    float:right;
+}
+
+#github {
+    position:fixed;
+    margin-left:90%;
+    margin-top:5px;
+    height:50px;
+    width:50px;
+    border-radius:100%;
+    border:2px solid teal;
+    float:right;
+}
+.left1 {
+    width:350px;
+    height:200px;
+    background-color:#0066CC;
+    margin-top:-80px;
+    margin-left: 50px;
+}
+
+.left1 ul {
+    font-size: 19px;
+    margin-bottom: 10px;
+    margin-top:-40px;
+    font-size:22px  
+}
+
+#edu {
+    color:white;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#eduicon {
+height:100px;
+width:100px; 
+margin-top:4px;
+margin-left: 5px;
+border:4px solid black;
+}
+
+.middle1 {
+    width:350px;
+    height:200px;
+    background-color:#0066CC;
+    margin-top:-244px;
+    margin-left:520px;
+}
+
+.middle1 p {
+    font-size:20px;
+    margin-top: -10%;
+    margin-left: 10px;
+}
+
+#info {
+    color:white;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#infoicon {
+height:100px;
+width:100px; 
+margin-top: ;
+margin-left:27%;
+border:4px solid black;    
+}
+
